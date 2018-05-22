@@ -14,6 +14,13 @@ print("A soma dos números digitados é %d" %s)
 print(" ======================================== ")
 print(" ")
 
+if s > 10:
+    print("\nO valor é maior que 10!\n")
+else:
+    print("O valor não é maior que 10!\n")
+
+
+
 
 
 
